@@ -1,4 +1,2 @@
-Random Team Selector
-
-![alt worldcup](https://b.fssta.com/uploads/application/soccer/competition-logos/FIFAMensWorldCup2022.vresize.350.350.medium.0.png)
+![alt worldcup](https://i2-prod.manchestereveningnews.co.uk/incoming/article25462813.ece/ALTERNATES/s1200d/0_World-Cup-2022.jpg)
 I created a project that randomly selects teams for the World Cup 2022.
